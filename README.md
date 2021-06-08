@@ -2,7 +2,7 @@
 
 ## Zar Data set include five dialects of Kurdish Language 
 * Northern Kurdish
-* Centra Kurdish
+* Central Kurdish
 * Southern Kurdish
 * Hawrami
 * Zazaki
