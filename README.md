@@ -1,6 +1,6 @@
 # Kurdish Dialect Identification
 
-## Zar Data set include five dialect of Kurdish Language 
+## Zar Data set include five dialects of Kurdish Language 
 * Northern Kurdish
 * Centra Kurdish
 * Southern Kurdish
