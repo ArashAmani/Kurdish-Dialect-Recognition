@@ -7,4 +7,4 @@
 * Hawrami
 * Zazaki
 
-[Download](https://link.springer.com/chapter/10.1007/978-3-030-87802-3_5)
+[Article Link](https://link.springer.com/chapter/10.1007/978-3-030-87802-3_5)
